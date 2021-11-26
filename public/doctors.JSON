@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Prof. Md. Aminul Haque Khan",
+    "degree": "MBBS, MCPS, FCGP, FCPS, MD (BSMMU)",
+    "position": "Head of the Department",
+    "shortDetails": "Prof. Dr. Md. Aminul Haque Khan graduated from Chittagong Medical College in 1983. He did FCGP in 1997 from Bangladesh College of General Practitioners and MCPS in 2001 from Bangladesh College of Physicians and Surgeons (BCPS). He did his MD in Biochemistry from Bangabandhu Sheikh Mujib Medical University (BSMMU), Dhaka in 2005 and FCPS in Biochemistry from BCPS, Dhaka in 2006. He joined Enam Medical College as Assistant Professor of Biochemistry on 1 June 2005. Now he is Professor and Head of the Department of Biochemistry in Enam Medical College.",
+    "img": "https://emcbd.com/wp-content/uploads/2015/07/1-1-200x200.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Chaklader Md. Kamal Jinnah",
+    "degree": "MBBS, M. Phil (Bio)",
+    "position": "Associate Professor",
+    "shortDetails": "Dr. Chaklader Md. Kamal Jinnah passed MBBS from Mymensingh Medical College in the year 2000.  He obtained M. Phil in Biochemistry in 2007 from Bangabandhu Sheikh Mujib Medical University (BSMMU). He is a part-time Associate Professor in Biochemistry in Enam Medical College.",
+    "img": "https://emcbd.com/wp-content/uploads/2015/07/21-200x200.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Noortaj Begum",
+    "degree": "MBBS, M. Phil (Bio.)",
+    "position": "Associate Professor",
+    "shortDetails": "Dr. Noortaj Begum passed MBBS from Sher-e-Bangla Medical College, Barisal in May 2004. She obtained M. Phil in Biochemistry in 2012. She joined Enam Medical College in September 2012 as Assistant Professor of Biochemistry. Now she is Associate Professor of Biochemistry in Enam Medical College.",
+    "img": "https://emcbd.com/wp-content/uploads/2015/07/3.0-200x200.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Jakia Sultana Shila",
+    "degree": "MBBS, MD (Bio)",
+    "position": "Assistant Professor",
+    "shortDetails": "Dr. Jakia Sultana Shila passed MBBS from Community Based Medical College, Mymensingh in 2003. She completed MD in Biochemistry from Bangabandhu Sheikh Mujib Medical University (BSMMU), Dhaka in 2014. She joined Enam Medical College as Assistant Professor of Biochemistry in April 2014.    ",
+    "img": "https://emcbd.com/wp-content/uploads/2018/03/4-200x200.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Sharmin Sultana",
+    "degree": "MBBS, MD (Bio)",
+    "position": "Assistant Professor",
+    "shortDetails": "Dr. Sharmin Sultana passed MBBS from Z. H. Shikder Women’s Medical College in 2013. She did MD in Biochemistry from Bangabandhu Sheikh Mujib Medical University (BSMMU), Dhaka in 2019. She joined Enam Medical College as Assistant Professor of Biochemistry on 1 April 2019.",
+    "img": "https://emcbd.com/wp-content/uploads/2019/09/s-200x200.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Prof. Dr. Sheuly Begum",
+    "degree": "MBBS, FCPS, MS",
+    "position": "Associate Professor",
+    "shortDetails": "Prof. Dr. Sheuly Begum passed MBBS from MAG Osmani Medical College, Sylhet in 2000. She passed FCPS in Obstetrics & Gynecology in 2006 and MS from Dhaka Medical College under University of Dhaka in 2013. Before joining here as Assistant Professor she was RS Gynecology & Obstetrics for about three years in another medical college. She is now Professor of Obstetrics & Gynecology in Enam Medical College & Hospital.",
+    "img": "https://emcbd.com/wp-content/uploads/2013/06/3-18-200x200.jpg"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Cardiology",
+    "shortDetails": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology.",
+    "img": "https://image.freepik.com/free-photo/clinical-cardiologist-showing-sample_151013-1388.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Neurology",
+    "shortDetails": "Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous systems, including their coverings, blood vessels, and all effector tissue, such as muscle.",
+    "img": "https://image.freepik.com/free-photo/neurological-doctor-cheking-eeg-headset-explaining-patient-diagnosis-disease-treatment-nervous-system-scientist-researcher-analysing-brain-scan-tomography-monitor-lab_482257-13083.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Urology",
+    "shortDetails": "Urology, also known as genitourinary surgery, is the branch of medicine that focuses on surgical and medical diseases of the male and female urinary-tract system and the male reproductive organs",
+    "img": "https://coordinatedhealth.com/wp-content/uploads/2018/03/menseeurologist_1000.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Valve Diseases",
+    "shortDetails": "In heart valve disease, one or more of the valves in your heart doesn't work properly.Your heart has four valves that keep blood flowing in the correct direction. In some cases, one or more of the valves don't open or close properly. This can cause the blood flow through your heart to your body to be disrupted.",
+    "img": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/medical_reference/375x321_heart_valves.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Body Surgery",
+    "shortDetails": "surgery is a surgical specialty involving the restoration, reconstruction, or alteration of the human body. It can be divided into two main categories: reconstructive surgery and cosmetic surgery. Reconstructive surgery includes craniofacial surgery, hand surgery, microsurgery, and the treatment of burns",
+    "img": "https://i.ibb.co/55gx2fT/body.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Ophthalmology",
+    "shortDetails": "Ophthalmology  is a branch of medicine and surgery that deals with the diagnosis and treatment of disorders of the eye.An ophthalmologist is a physician who specializes in ophthalmology.",
+    "img": "https://avala.com/wp-content/uploads/2020/10/Avala-WebImages-Health-Ophthalmology.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Nephrology",
+    "shortDetails": "Nephrology is a specialty of adult internal medicine and pediatric medicine that concerns the study of the kidneys, specifically normal kidney function and kidney disease, the preservation of kidney health, and the treatment of kidney disease, from diet and medication to renal replacement therapy.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/KidneyStructures_PioM.svg"
+  }
+]
